@@ -1,0 +1,30 @@
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\bin\Debug\ejecutar exe.exe.config
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\bin\Debug\ejecutar exe.exe
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\bin\Debug\ejecutar exe.pdb
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\bin\Debug\ejecutar exe.xml
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\obj\Debug\ejecutar exe.vbprojAssemblyReference.cache
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\obj\Debug\ejecutar_exe.Form1.resources
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\obj\Debug\ejecutar_exe.Resources.resources
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\obj\Debug\ejecutar exe.vbproj.GenerateResource.cache
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\obj\Debug\ejecutar exe.exe
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\obj\Debug\ejecutar exe.xml
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\obj\Debug\ejecutar exe.pdb
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\bin\Debug\Renci.SshNet.dll
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\bin\Debug\Renci.SshNet.xml
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\obj\Debug\ejecutar exe.vbproj.CopyComplete
+C:\Users\jeffrey.rios\source\repos\ejecutar exe\ejecutar exe\obj\Debug\ejecutar exe.vbproj.CoreCompileInputs.cache
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\bin\Debug\ejecutar exe.exe.config
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\bin\Debug\ejecutar exe.exe
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\bin\Debug\ejecutar exe.pdb
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\bin\Debug\ejecutar exe.xml
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\bin\Debug\Renci.SshNet.dll
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\bin\Debug\Renci.SshNet.xml
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\obj\Debug\ejecutar exe.vbprojAssemblyReference.cache
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\obj\Debug\ejecutar_exe.Form1.resources
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\obj\Debug\ejecutar_exe.Resources.resources
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\obj\Debug\ejecutar exe.vbproj.GenerateResource.cache
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\obj\Debug\ejecutar exe.vbproj.CoreCompileInputs.cache
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\obj\Debug\ejecutar exe.vbproj.CopyComplete
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\obj\Debug\ejecutar exe.exe
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\obj\Debug\ejecutar exe.xml
+C:\Users\jeffrey.rios\source\repos\ejecutar exe - copia\ejecutar exe\obj\Debug\ejecutar exe.pdb
